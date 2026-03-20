@@ -51,9 +51,23 @@ vi)Sequence Diagram
 <img width="788" height="672" alt="4" src="https://github.com/user-attachments/assets/0c7e7dfe-2e97-4402-92e1-3c8ebd551cd8" />
 
 
+
+
+
+
+
+
 # Package Diagram
 
 <img width="992" height="731" alt="5" src="https://github.com/user-attachments/assets/090e6608-dafd-4d91-9a45-bdf7680e116b" />
+
+
+
+
+
+
+
+
 
 
 
